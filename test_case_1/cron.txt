@@ -1,0 +1,1 @@
+* * * * * /bin/bash -c ' for i in {1..2}; do bash microservice.sh ; sleep 30 ; done '

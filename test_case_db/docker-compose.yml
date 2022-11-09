@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+ datareader:
+  build:
+   context: ./
+    
+ postgres:
+    image: postgres:14.1-alpine
+    restart: always
+    environment:
+      POSTGRES_DB: "ohlcv"
+      POSTGRES_USER: "postgres"
+      POSTGRES_PASSWORD: "Pb2RoVH11OQLWo56NiLy"
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres:/var/lib/postgres
+      - postgres_config:/etc/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+
+volumes:
+  postgres:
+  postgres_config:

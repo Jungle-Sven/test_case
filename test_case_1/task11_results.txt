@@ -1,0 +1,297 @@
+1.1
+symbols from bars_1 for which condition is satisfied: 0.5659340659340659
+
+1.2
+average dollar volume in February 2019 is 408245276.85317266
+
+1.3
+'Rank of stocks in 2015 by Positive Volume in ascending order'
+ic| 'Stock: ', i[0]: 'AMCR', 'Positive Volume: ', i[1]: 2900.0
+ic| 'Stock: ', i[0]: 'SIVB', 'Positive Volume: ', i[1]: 242300.0
+ic| 'Stock: ', i[0]: 'WAT', 'Positive Volume: ', i[1]: 264000.0
+ic| 'Stock: ', i[0]: 'SNA', 'Positive Volume: ', i[1]: 275100.0
+ic| 'Stock: ', i[0]: 'SJM', 'Positive Volume: ', i[1]: 381700.0
+ic| 'Stock: ', i[0]: 'WAB', 'Positive Volume: ', i[1]: 460500.0
+ic| 'Stock: ', i[0]: 'TSN', 'Positive Volume: ', i[1]: 2888600.0
+ic| 'Stock: ', i[0]: 'TXT', 'Positive Volume: ', i[1]: 3267500.0
+ic| 'Stock: ', i[0]: 'SWKS', 'Positive Volume: ', i[1]: 3632600.0
+ic| 'Stock: ', i[0]: 'URI', 'Positive Volume: ', i[1]: 6529200.0
+ic| 'Stock: ', i[0]: 'LUV', 'Positive Volume: ', i[1]: 7775000.0
+ic| 'Stock: ', i[0]: 'BIO', 'Positive Volume: ', i[1]: 17922200.0
+ic| 'Stock: ', i[0]: 'CZR', 'Positive Volume: ', i[1]: 19029500.0
+ic| 'Stock: ', i[0]: 'TECH', 'Positive Volume: ', i[1]: 27493900.0
+ic| 'Stock: ', i[0]: 'AZO', 'Positive Volume: ', i[1]: 36197900.0
+ic| 'Stock: ', i[0]: 'ARE', 'Positive Volume: ', i[1]: 53472500.0
+ic| 'Stock: ', i[0]: 'ANSS', 'Positive Volume: ', i[1]: 53698800.0
+ic| 'Stock: ', i[0]: 'ATO', 'Positive Volume: ', i[1]: 75684300.0
+ic| 'Stock: ', i[0]: 'BLK', 'Positive Volume: ', i[1]: 78334800.0
+ic| 'Stock: ', i[0]: 'CTLT', 'Positive Volume: ', i[1]: 78621600.0
+ic| 'Stock: ', i[0]: 'AIZ', 'Positive Volume: ', i[1]: 81891400.0
+ic| 'Stock: ', i[0]: 'CBOE', 'Positive Volume: ', i[1]: 81933900.0
+ic| 'Stock: ', i[0]: 'ALLE', 'Positive Volume: ', i[1]: 83285600.0
+ic| 'Stock: ', i[0]: 'BKNG', 'Positive Volume: ', i[1]: 84227800.0
+ic| 'Stock: ', i[0]: 'CPT', 'Positive Volume: ', i[1]: 87135700.0
+ic| 'Stock: ', i[0]: 'BR', 'Positive Volume: ', i[1]: 87834400.0
+ic| 'Stock: ', i[0]: 'ABMD', 'Positive Volume: ', i[1]: 88593700.0
+ic| 'Stock: ', i[0]: 'AVB', 'Positive Volume: ', i[1]: 99657200.0
+ic| 'Stock: ', i[0]: 'BXP', 'Positive Volume: ', i[1]: 102246600.0
+ic| 'Stock: ', i[0]: 'ALGN', 'Positive Volume: ', i[1]: 102317100.0
+ic| 'Stock: ', i[0]: 'AVY', 'Positive Volume: ', i[1]: 106607900.0
+ic| 'Stock: ', i[0]: 'AWK', 'Positive Volume: ', i[1]: 122194800.0
+ic| 'Stock: ', i[0]: 'AJG', 'Positive Volume: ', i[1]: 123360400.0
+ic| 'Stock: ', i[0]: 'AAP', 'Positive Volume: ', i[1]: 134985000.0
+ic| 'Stock: ', i[0]: 'AMP', 'Positive Volume: ', i[1]: 141072800.0
+ic| 'Stock: ', i[0]: 'BDX', 'Positive Volume: ', i[1]: 141283569.0
+ic| 'Stock: ', i[0]: 'AON', 'Positive Volume: ', i[1]: 148038700.0
+ic| 'Stock: ', i[0]: 'BRO', 'Positive Volume: ', i[1]: 152004400.0
+ic| 'Stock: ', i[0]: 'APD', 'Positive Volume: ', i[1]: 158540329.0
+ic| 'Stock: ', i[0]: 'LNT', 'Positive Volume: ', i[1]: 169412200.0
+ic| 'Stock: ', i[0]: 'AME', 'Positive Volume: ', i[1]: 174461500.0
+ic| 'Stock: ', i[0]: 'WRB', 'Positive Volume: ', i[1]: 181878525.0
+ic| 'Stock: ', i[0]: 'ALK', 'Positive Volume: ', i[1]: 182908600.0
+ic| 'Stock: ', i[0]: 'AOS', 'Positive Volume: ', i[1]: 184851600.0
+ic| 'Stock: ', i[0]: 'KMX', 'Positive Volume: ', i[1]: 193231300.0
+ic| 'Stock: ', i[0]: 'AKAM', 'Positive Volume: ', i[1]: 201342600.0
+ic| 'Stock: ', i[0]: 'ALB', 'Positive Volume: ', i[1]: 202013100.0
+ic| 'Stock: ', i[0]: 'CHRW', 'Positive Volume: ', i[1]: 203204200.0
+ic| 'Stock: ', i[0]: 'BF-B', 'Positive Volume: ', i[1]: 207598250.0
+ic| 'Stock: ', i[0]: 'AEE', 'Positive Volume: ', i[1]: 214210700.0
+ic| 'Stock: ', i[0]: 'CPB', 'Positive Volume: ', i[1]: 219646100.0
+ic| 'Stock: ', i[0]: 'BWA', 'Positive Volume: ', i[1]: 230768200.0
+ic| 'Stock: ', i[0]: 'ADP', 'Positive Volume: ', i[1]: 235243800.0
+ic| 'Stock: ', i[0]: 'CBRE', 'Positive Volume: ', i[1]: 252538200.0
+ic| 'Stock: ', i[0]: 'GOOG', 'Positive Volume: ', i[1]: 267525285.0
+ic| 'Stock: ', i[0]: 'BIIB', 'Positive Volume: ', i[1]: 271886700.0
+ic| 'Stock: ', i[0]: 'BBWI', 'Positive Volume: ', i[1]: 274581354.0
+ic| 'Stock: ', i[0]: 'CAH', 'Positive Volume: ', i[1]: 275981800.0
+ic| 'Stock: ', i[0]: 'BALL', 'Positive Volume: ', i[1]: 280555600.0
+ic| 'Stock: ', i[0]: 'APH', 'Positive Volume: ', i[1]: 283666800.0
+ic| 'Stock: ', i[0]: 'ABC', 'Positive Volume: ', i[1]: 287251900.0
+ic| 'Stock: ', i[0]: 'AMT', 'Positive Volume: ', i[1]: 295790500.0
+ic| 'Stock: ', i[0]: 'MMM', 'Positive Volume: ', i[1]: 300063800.0
+ic| 'Stock: ', i[0]: 'GOOGL', 'Positive Volume: ', i[1]: 302902900.0
+ic| 'Stock: ', i[0]: 'ADI', 'Positive Volume: ', i[1]: 312233000.0
+ic| 'Stock: ', i[0]: 'ADSK', 'Positive Volume: ', i[1]: 315450300.0
+ic| 'Stock: ', i[0]: 'ALL', 'Positive Volume: ', i[1]: 318140600.0
+ic| 'Stock: ', i[0]: 'A', 'Positive Volume: ', i[1]: 319674100.0
+ic| 'Stock: ', i[0]: 'ACN', 'Positive Volume: ', i[1]: 320240700.0
+ic| 'Stock: ', i[0]: 'APTV', 'Positive Volume: ', i[1]: 339337292.0
+ic| 'Stock: ', i[0]: 'ANET', 'Positive Volume: ', i[1]: 358795200.0
+ic| 'Stock: ', i[0]: 'COF', 'Positive Volume: ', i[1]: 363218000.0
+ic| 'Stock: ', i[0]: 'BRK-B', 'Positive Volume: ', i[1]: 366074500.0
+ic| 'Stock: ', i[0]: 'AEP', 'Positive Volume: ', i[1]: 381876600.0
+ic| 'Stock: ', i[0]: 'ADBE', 'Positive Volume: ', i[1]: 396798500.0
+ic| 'Stock: ', i[0]: 'AVGO', 'Positive Volume: ', i[1]: 404614900.0
+ic| 'Stock: ', i[0]: 'CDNS', 'Positive Volume: ', i[1]: 413788100.0
+ic| 'Stock: ', i[0]: 'BKR', 'Positive Volume: ', i[1]: 438481800.0
+ic| 'Stock: ', i[0]: 'AMGN', 'Positive Volume: ', i[1]: 477437200.0
+ic| 'Stock: ', i[0]: 'BA', 'Positive Volume: ', i[1]: 484764500.0
+ic| 'Stock: ', i[0]: 'ADM', 'Positive Volume: ', i[1]: 489701100.0
+ic| 'Stock: ', i[0]: 'APA', 'Positive Volume: ', i[1]: 501415300.0
+ic| 'Stock: ', i[0]: 'CCL', 'Positive Volume: ', i[1]: 528619700.0
+ic| 'Stock: ', i[0]: 'BBY', 'Positive Volume: ', i[1]: 578840500.0
+ic| 'Stock: ', i[0]: 'AFL', 'Positive Volume: ', i[1]: 579706800.0
+ic| 'Stock: ', i[0]: 'CAT', 'Positive Volume: ', i[1]: 695880100.0
+ic| 'Stock: ', i[0]: 'AXP', 'Positive Volume: ', i[1]: 710052600.0
+ic| 'Stock: ', i[0]: 'AES', 'Positive Volume: ', i[1]: 712761300.0
+ic| 'Stock: ', i[0]: 'ABT', 'Positive Volume: ', i[1]: 743972100.0
+ic| 'Stock: ', i[0]: 'BK', 'Positive Volume: ', i[1]: 759919100.0
+ic| 'Stock: ', i[0]: 'BMY', 'Positive Volume: ', i[1]: 880796700.0
+ic| 'Stock: ', i[0]: 'MO', 'Positive Volume: ', i[1]: 900983900.0
+ic| 'Stock: ', i[0]: 'BAX', 'Positive Volume: ', i[1]: 934113546.0
+ic| 'Stock: ', i[0]: 'AIG', 'Positive Volume: ', i[1]: 1041877700.0
+ic| 'Stock: ', i[0]: 'ATVI', 'Positive Volume: ', i[1]: 1186235500.0
+ic| 'Stock: ', i[0]: 'BSX', 'Positive Volume: ', i[1]: 1354028500.0
+ic| 'Stock: ', i[0]: 'ABBV', 'Positive Volume: ', i[1]: 1408262800.0
+ic| 'Stock: ', i[0]: 'AAL', 'Positive Volume: ', i[1]: 1456677400.0
+ic| 'Stock: ', i[0]: 'AMD', 'Positive Volume: ', i[1]: 1644339300.0
+ic| 'Stock: ', i[0]: 'AMAT', 'Positive Volume: ', i[1]: 2002510400.0
+ic| 'Stock: ', i[0]: 'T', 'Positive Volume: ', i[1]: 4765945872.0
+ic| 'Stock: ', i[0]: 'BAC', 'Positive Volume: ', i[1]: 9766997400.0
+ic| 'Stock: ', i[0]: 'AMZN', 'Positive Volume: ', i[1]: 10877098000.0
+ic| 'Stock: ', i[0]: 'AAPL', 'Positive Volume: ', i[1]: 25025160800.0
+
+1.4
+'Average absolute daily percent change for each stock.'
+ic| 'Stock: ', i[0]: 'AMCR', 'AADPC: ', i[1]: 0.1113456274865421
+ic| 'Stock: ', i[0]: 'AES', 'AADPC: ', i[1]: 0.25064526222650974
+ic| 'Stock: ', i[0]: 'BSX', 'AADPC: ', i[1]: 0.3080673736140596
+ic| 'Stock: ', i[0]: 'BRO', 'AADPC: ', i[1]: 0.312926398787303
+ic| 'Stock: ', i[0]: 'BAC', 'AADPC: ', i[1]: 0.34433749338010017
+ic| 'Stock: ', i[0]: 'T', 'AADPC: ', i[1]: 0.38411289262332476
+ic| 'Stock: ', i[0]: 'CPB', 'AADPC: ', i[1]: 0.44330997315423476
+ic| 'Stock: ', i[0]: 'BF-B', 'AADPC: ', i[1]: 0.4452636164612476
+ic| 'Stock: ', i[0]: 'APH', 'AADPC: ', i[1]: 0.44819131900911036
+ic| 'Stock: ', i[0]: 'LNT', 'AADPC: ', i[1]: 0.4643680527687981
+ic| 'Stock: ', i[0]: 'AFL', 'AADPC: ', i[1]: 0.4682898518391953
+ic| 'Stock: ', i[0]: 'WRB', 'AADPC: ', i[1]: 0.4855458266853226
+ic| 'Stock: ', i[0]: 'AEE', 'AADPC: ', i[1]: 0.5009771013093215
+ic| 'Stock: ', i[0]: 'ADM', 'AADPC: ', i[1]: 0.5273079451303634
+ic| 'Stock: ', i[0]: 'AEP', 'AADPC: ', i[1]: 0.5492914513174905
+ic| 'Stock: ', i[0]: 'AAL', 'AADPC: ', i[1]: 0.553928809945021
+ic| 'Stock: ', i[0]: 'BMY', 'AADPC: ', i[1]: 0.5635822948497038
+ic| 'Stock: ', i[0]: 'CBRE', 'AADPC: ', i[1]: 0.6006069595487223
+ic| 'Stock: ', i[0]: 'ABT', 'AADPC: ', i[1]: 0.6114255694839967
+ic| 'Stock: ', i[0]: 'AOS', 'AADPC: ', i[1]: 0.6260077357481456
+ic| 'Stock: ', i[0]: 'CARR', 'AADPC: ', i[1]: 0.6343577305475869
+ic| 'Stock: ', i[0]: 'BK', 'AADPC: ', i[1]: 0.6391001533059513
+ic| 'Stock: ', i[0]: 'ATVI', 'AADPC: ', i[1]: 0.650057175580193
+ic| 'Stock: ', i[0]: 'BALL', 'AADPC: ', i[1]: 0.6502738890855341
+ic| 'Stock: ', i[0]: 'AJG', 'AADPC: ', i[1]: 0.6648188503754942
+ic| 'Stock: ', i[0]: 'CAH', 'AADPC: ', i[1]: 0.6786626903044375
+ic| 'Stock: ', i[0]: 'AAPL', 'AADPC: ', i[1]: 0.6803437658577911
+ic| 'Stock: ', i[0]: 'BAX', 'AADPC: ', i[1]: 0.6872730948653211
+ic| 'Stock: ', i[0]: 'AIG', 'AADPC: ', i[1]: 0.6958100338297242
+ic| 'Stock: ', i[0]: 'AME', 'AADPC: ', i[1]: 0.7077445959635623
+ic| 'Stock: ', i[0]: 'ALL', 'AADPC: ', i[1]: 0.7174714614354367
+ic| 'Stock: ', i[0]: 'BBWI', 'AADPC: ', i[1]: 0.7370870674981012
+ic| 'Stock: ', i[0]: 'BKR', 'AADPC: ', i[1]: 0.7402852513724956
+ic| 'Stock: ', i[0]: 'AMD', 'AADPC: ', i[1]: 0.8084117293054903
+ic| 'Stock: ', i[0]: 'CHRW', 'AADPC: ', i[1]: 0.8217026445129472
+ic| 'Stock: ', i[0]: 'A', 'AADPC: ', i[1]: 0.8305544872895693
+ic| 'Stock: ', i[0]: 'CDNS', 'AADPC: ', i[1]: 0.8520085301204141
+ic| 'Stock: ', i[0]: 'AWK', 'AADPC: ', i[1]: 0.8533989234982482
+ic| 'Stock: ', i[0]: 'AMAT', 'AADPC: ', i[1]: 0.8757211495536407
+ic| 'Stock: ', i[0]: 'ALK', 'AADPC: ', i[1]: 0.9032441261005523
+ic| 'Stock: ', i[0]: 'CTLT', 'AADPC: ', i[1]: 0.9554386559584386
+ic| 'Stock: ', i[0]: 'ABC', 'AADPC: ', i[1]: 0.9644723384151471
+ic| 'Stock: ', i[0]: 'CPT', 'AADPC: ', i[1]: 0.9712857309977213
+ic| 'Stock: ', i[0]: 'AIZ', 'AADPC: ', i[1]: 0.9802129786091075
+ic| 'Stock: ', i[0]: 'ABBV', 'AADPC: ', i[1]: 0.9892122385843598
+ic| 'Stock: ', i[0]: 'CCL', 'AADPC: ', i[1]: 1.0164469282526407
+ic| 'Stock: ', i[0]: 'ANET', 'AADPC: ', i[1]: 1.016795450633697
+ic| 'Stock: ', i[0]: 'BR', 'AADPC: ', i[1]: 1.022964596256221
+ic| 'Stock: ', i[0]: 'ATO', 'AADPC: ', i[1]: 1.0360833558582123
+ic| 'Stock: ', i[0]: 'APA', 'AADPC: ', i[1]: 1.0427232559878068
+ic| 'Stock: ', i[0]: 'BBY', 'AADPC: ', i[1]: 1.0533020669047684
+ic| 'Stock: ', i[0]: 'AKAM', 'AADPC: ', i[1]: 1.0672433568560888
+ic| 'Stock: ', i[0]: 'AMZN', 'AADPC: ', i[1]: 1.0795815943157863
+ic| 'Stock: ', i[0]: 'AVY', 'AADPC: ', i[1]: 1.0897742742500862
+ic| 'Stock: ', i[0]: 'CZR', 'AADPC: ', i[1]: 1.099995919149749
+ic| 'Stock: ', i[0]: 'AXP', 'AADPC: ', i[1]: 1.1047196001865616
+ic| 'Stock: ', i[0]: 'ADI', 'AADPC: ', i[1]: 1.1171264793944071
+ic| 'Stock: ', i[0]: 'MO', 'AADPC: ', i[1]: 1.136538404305877
+ic| 'Stock: ', i[0]: 'ADP', 'AADPC: ', i[1]: 1.1384026823058986
+ic| 'Stock: ', i[0]: 'KMX', 'AADPC: ', i[1]: 1.150346382633254
+ic| 'Stock: ', i[0]: 'ALLE', 'AADPC: ', i[1]: 1.1512303963234898
+ic| 'Stock: ', i[0]: 'COF', 'AADPC: ', i[1]: 1.1579770305944874
+ic| 'Stock: ', i[0]: 'CBOE', 'AADPC: ', i[1]: 1.16060647417545
+ic| 'Stock: ', i[0]: 'APTV', 'AADPC: ', i[1]: 1.1801585929753493
+ic| 'Stock: ', i[0]: 'ARE', 'AADPC: ', i[1]: 1.1946884768826145
+ic| 'Stock: ', i[0]: 'BWA', 'AADPC: ', i[1]: 1.230687710351229
+ic| 'Stock: ', i[0]: 'BXP', 'AADPC: ', i[1]: 1.288738822997601
+ic| 'Stock: ', i[0]: 'AON', 'AADPC: ', i[1]: 1.2981723462860826
+ic| 'Stock: ', i[0]: 'MMM', 'AADPC: ', i[1]: 1.35023227478105
+ic| 'Stock: ', i[0]: 'AMT', 'AADPC: ', i[1]: 1.437670129920295
+ic| 'Stock: ', i[0]: 'BRK-B', 'AADPC: ', i[1]: 1.5269291476645948
+ic| 'Stock: ', i[0]: 'ACN', 'AADPC: ', i[1]: 1.5706893625223046
+ic| 'Stock: ', i[0]: 'ALB', 'AADPC: ', i[1]: 1.5964120170515708
+ic| 'Stock: ', i[0]: 'BDX', 'AADPC: ', i[1]: 1.5992189962345884
+ic| 'Stock: ', i[0]: 'CAT', 'AADPC: ', i[1]: 1.605376562088832
+ic| 'Stock: ', i[0]: 'APD', 'AADPC: ', i[1]: 1.661911739256028
+ic| 'Stock: ', i[0]: 'AAP', 'AADPC: ', i[1]: 1.663768041759303
+ic| 'Stock: ', i[0]: 'ADSK', 'AADPC: ', i[1]: 1.7774443738565124
+ic| 'Stock: ', i[0]: 'AMP', 'AADPC: ', i[1]: 1.803755332099067
+ic| 'Stock: ', i[0]: 'AMGN', 'AADPC: ', i[1]: 1.8158909002586758
+ic| 'Stock: ', i[0]: 'ANSS', 'AADPC: ', i[1]: 2.0053100974078397
+ic| 'Stock: ', i[0]: 'TECH', 'AADPC: ', i[1]: 2.4341155567332726
+ic| 'Stock: ', i[0]: 'AVB', 'AADPC: ', i[1]: 2.553634259906517
+ic| 'Stock: ', i[0]: 'ADBE', 'AADPC: ', i[1]: 2.689465995056191
+ic| 'Stock: ', i[0]: 'BA', 'AADPC: ', i[1]: 2.7000080584873842
+ic| 'Stock: ', i[0]: 'ABMD', 'AADPC: ', i[1]: 2.781732804356814
+ic| 'Stock: ', i[0]: 'AVGO', 'AADPC: ', i[1]: 3.160216110564051
+ic| 'Stock: ', i[0]: 'BIO', 'AADPC: ', i[1]: 3.4839771299834776
+ic| 'Stock: ', i[0]: 'STX', 'AADPC: ', i[1]: 3.4899978637695312
+ic| 'Stock: ', i[0]: 'ALGN', 'AADPC: ', i[1]: 3.8269022448560013
+ic| 'Stock: ', i[0]: 'BIIB', 'AADPC: ', i[1]: 3.866998877882806
+ic| 'Stock: ', i[0]: 'BLK', 'AADPC: ', i[1]: 5.247990976177953
+ic| 'Stock: ', i[0]: 'TSCO', 'AADPC: ', i[1]: 6.8300018310546875
+ic| 'Stock: ', i[0]: 'TJX', 'AADPC: ', i[1]: 8.752197265625002
+ic| 'Stock: ', i[0]: 'AZO', 'AADPC: ', i[1]: 8.936933305393786
+ic| 'Stock: ', i[0]: 'TPR', 'AADPC: ', i[1]: 8.995000839233398
+ic| 'Stock: ', i[0]: 'YUM', 'AADPC: ', i[1]: 11.416447957356764
+ic| 'Stock: ', i[0]: 'GOOG', 'AADPC: ', i[1]: 11.740404506859226
+ic| 'Stock: ', i[0]: 'VMC', 'AADPC: ', i[1]: 11.938749313354498
+ic| 'Stock: ', i[0]: 'GOOGL', 'AADPC: ', i[1]: 12.020830308364467
+ic| 'Stock: ', i[0]: 'TXN', 'AADPC: ', i[1]: 12.380001068115234
+ic| 'Stock: ', i[0]: 'WMB', 'AADPC: ', i[1]: 14.519940185546869
+ic| 'Stock: ', i[0]: 'TFC', 'AADPC: ', i[1]: 14.729999542236328
+ic| 'Stock: ', i[0]: 'WFC', 'AADPC: ', i[1]: 17.040000279744465
+ic| 'Stock: ', i[0]: 'BKNG', 'AADPC: ', i[1]: 18.75387895781753
+ic| 'Stock: ', i[0]: 'SYY', 'AADPC: ', i[1]: 20.06999969482422
+ic| 'Stock: ', i[0]: 'VFC', 'AADPC: ', i[1]: 20.78984832763672
+ic| 'Stock: ', i[0]: 'WMT', 'AADPC: ', i[1]: 21.996666590372723
+ic| 'Stock: ', i[0]: 'TMUS', 'AADPC: ', i[1]: 22.045000076293945
+ic| 'Stock: ', i[0]: 'V', 'AADPC: ', i[1]: 24.784999847412106
+ic| 'Stock: ', i[0]: 'VLO', 'AADPC: ', i[1]: 24.964965820312496
+ic| 'Stock: ', i[0]: 'WBA', 'AADPC: ', i[1]: 27.26124906539917
+ic| 'Stock: ', i[0]: 'TROW', 'AADPC: ', i[1]: 29.400001207987472
+ic| 'Stock: ', i[0]: 'XYL', 'AADPC: ', i[1]: 29.494998931884762
+ic| 'Stock: ', i[0]: 'WELL', 'AADPC: ', i[1]: 29.500263849894207
+ic| 'Stock: ', i[0]: 'SPGI', 'AADPC: ', i[1]: 29.9350004196167
+ic| 'Stock: ', i[0]: 'ZION', 'AADPC: ', i[1]: 30.72999954223633
+ic| 'Stock: ', i[0]: 'VNO', 'AADPC: ', i[1]: 32.01006031036377
+ic| 'Stock: ', i[0]: 'WRK', 'AADPC: ', i[1]: 33.38451321919759
+ic| 'Stock: ', i[0]: 'CRM', 'AADPC: ', i[1]: 34.36499691009521
+ic| 'Stock: ', i[0]: 'TXT', 'AADPC: ', i[1]: 35.00200271606445
+ic| 'Stock: ', i[0]: 'WM', 'AADPC: ', i[1]: 36.181666692097984
+ic| 'Stock: ', i[0]: 'VRSK', 'AADPC: ', i[1]: 36.910003662109375
+ic| 'Stock: ', i[0]: 'USB', 'AADPC: ', i[1]: 38.165000915527344
+ic| 'Stock: ', i[0]: 'TEL', 'AADPC: ', i[1]: 38.54500102996826
+ic| 'Stock: ', i[0]: 'WEC', 'AADPC: ', i[1]: 38.589998245239265
+ic| 'Stock: ', i[0]: 'UAL', 'AADPC: ', i[1]: 40.303929011027016
+ic| 'Stock: ', i[0]: 'WY', 'AADPC: ', i[1]: 40.337777614593506
+ic| 'Stock: ', i[0]: 'LUV', 'AADPC: ', i[1]: 41.965003967285156
+ic| 'Stock: ', i[0]: 'RCL', 'AADPC: ', i[1]: 42.499996185302734
+ic| 'Stock: ', i[0]: 'SHW', 'AADPC: ', i[1]: 44.11555417378742
+ic| 'Stock: ', i[0]: 'VTRS', 'AADPC: ', i[1]: 44.19886016845703
+ic| 'Stock: ', i[0]: 'SLB', 'AADPC: ', i[1]: 46.08000946044922
+ic| 'Stock: ', i[0]: 'ZTS', 'AADPC: ', i[1]: 46.42007954915362
+ic| 'Stock: ', i[0]: 'SJM', 'AADPC: ', i[1]: 47.84749984741211
+ic| 'Stock: ', i[0]: 'UNP', 'AADPC: ', i[1]: 47.96500015258789
+ic| 'Stock: ', i[0]: 'ZBH', 'AADPC: ', i[1]: 49.796856880188
+ic| 'Stock: ', i[0]: 'SBNY', 'AADPC: ', i[1]: 50.58000946044923
+ic| 'Stock: ', i[0]: 'SNPS', 'AADPC: ', i[1]: 52.9350004196167
+ic| 'Stock: ', i[0]: 'SO', 'AADPC: ', i[1]: 53.465000629425056
+ic| 'Stock: ', i[0]: 'SWK', 'AADPC: ', i[1]: 56.50600051879883
+ic| 'Stock: ', i[0]: 'WDC', 'AADPC: ', i[1]: 57.498000144958496
+ic| 'Stock: ', i[0]: 'SPG', 'AADPC: ', i[1]: 60.66378402709961
+ic| 'Stock: ', i[0]: 'VZ', 'AADPC: ', i[1]: 60.944000244140625
+ic| 'Stock: ', i[0]: 'TRV', 'AADPC: ', i[1]: 62.39000320434571
+ic| 'Stock: ', i[0]: 'WYNN', 'AADPC: ', i[1]: 65.05383396148682
+ic| 'Stock: ', i[0]: 'WAT', 'AADPC: ', i[1]: 66.91999626159665
+ic| 'Stock: ', i[0]: 'STT', 'AADPC: ', i[1]: 66.98499727249146
+ic| 'Stock: ', i[0]: 'WTW', 'AADPC: ', i[1]: 69.16096115112305
+ic| 'Stock: ', i[0]: 'TSN', 'AADPC: ', i[1]: 76.44833119710286
+ic| 'Stock: ', i[0]: 'SWKS', 'AADPC: ', i[1]: 81.60000038146973
+ic| 'Stock: ', i[0]: 'SYF', 'AADPC: ', i[1]: 83.15999984741211
+ic| 'Stock: ', i[0]: 'XEL', 'AADPC: ', i[1]: 85.14460563659668
+ic| 'Stock: ', i[0]: 'VRTX', 'AADPC: ', i[1]: 87.3255844116211
+ic| 'Stock: ', i[0]: 'NOW', 'AADPC: ', i[1]: 93.08499431610107
+ic| 'Stock: ', i[0]: 'UHS', 'AADPC: ', i[1]: 97.53999710083008
+ic| 'Stock: ', i[0]: 'VTR', 'AADPC: ', i[1]: 101.57284832000732
+ic| 'Stock: ', i[0]: 'VRSN', 'AADPC: ', i[1]: 102.322691599528
+ic| 'Stock: ', i[0]: 'SEE', 'AADPC: ', i[1]: 104.82081336975098
+ic| 'Stock: ', i[0]: 'SRE', 'AADPC: ', i[1]: 112.6799988746643
+ic| 'Stock: ', i[0]: 'UPS', 'AADPC: ', i[1]: 114.16499900817871
+ic| 'Stock: ', i[0]: 'WST', 'AADPC: ', i[1]: 116.67833010355632
+ic| 'Stock: ', i[0]: 'TRMB', 'AADPC: ', i[1]: 129.6832061767578
+ic| 'Stock: ', i[0]: 'URI', 'AADPC: ', i[1]: 132.26031939188638
+ic| 'Stock: ', i[0]: 'TTWO', 'AADPC: ', i[1]: 142.4333885737828
+ic| 'Stock: ', i[0]: 'STE', 'AADPC: ', i[1]: 144.32999801635742
+ic| 'Stock: ', i[0]: 'TGT', 'AADPC: ', i[1]: 155.22333399454752
+ic| 'Stock: ', i[0]: 'SBAC', 'AADPC: ', i[1]: 159.18500137329102
+ic| 'Stock: ', i[0]: 'GWW', 'AADPC: ', i[1]: 162.1375026702881
+ic| 'Stock: ', i[0]: 'TYL', 'AADPC: ', i[1]: 168.30249404907227
+ic| 'Stock: ', i[0]: 'WAB', 'AADPC: ', i[1]: 173.4970027923584
+ic| 'Stock: ', i[0]: 'WHR', 'AADPC: ', i[1]: 178.06999969482422
+ic| 'Stock: ', i[0]: 'TMO', 'AADPC: ', i[1]: 190.95399894714356
+ic| 'Stock: ', i[0]: 'SEDG', 'AADPC: ', i[1]: 196.88599834442138
+ic| 'Stock: ', i[0]: 'TFX', 'AADPC: ', i[1]: 201.16000334421793
+ic| 'Stock: ', i[0]: 'ZBRA', 'AADPC: ', i[1]: 206.8224930763245
+ic| 'Stock: ', i[0]: 'SNA', 'AADPC: ', i[1]: 213.0000057220459
+ic| 'Stock: ', i[0]: 'ULTA', 'AADPC: ', i[1]: 218.16083081563315
+ic| 'Stock: ', i[0]: 'TSLA', 'AADPC: ', i[1]: 252.24400059382126
+ic| 'Stock: ', i[0]: 'TDG', 'AADPC: ', i[1]: 272.81564235687256
+ic| 'Stock: ', i[0]: 'SIVB', 'AADPC: ', i[1]: 414.6965730190277
+ic| 'Stock: ', i[0]: 'WBD', 'AADPC: ', i[1]: 522.9196887016296

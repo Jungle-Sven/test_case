@@ -1,0 +1,3 @@
+CREATE USER postgres;
+CREATE DATABASE ohlcv;
+GRANT ALL PRIVILEGES ON DATABASE ohlcv TO postgres;
