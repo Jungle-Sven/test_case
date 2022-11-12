@@ -33,7 +33,7 @@ class DataInspector:
         list_of_symbols2 = self.find_list_of_symbols(df=df2)
 
         common_elements = self.check_common(list_of_symbols, list_of_symbols2)
-        ic(common_elements)
+        #ic(common_elements)
 
 if __name__ == '__main__':
     di = DataInspector()
