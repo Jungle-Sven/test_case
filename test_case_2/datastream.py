@@ -2,7 +2,6 @@ import pandas as pd
 import unittest
 import time
 
-
 from events import Event, InfoEvent, TradeEvent, ErrorEvent
 
 class DataStream:
